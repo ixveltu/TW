@@ -1,0 +1,12 @@
+ <div class="about" style="margin-top: 50px">
+      <h4>About Academic Inquirys</h4>
+      <p>
+        These tools assess various aspects of teaching, such as clarity of
+        instruction, engagement techniques, approachability, and the ability to
+        create a supportive learning environment. Open-ended questions allow
+        students to provide qualitative feedback, highlighting specific
+        strengths or areas for improvement. These inquiries provide valuable
+        perspectives on how teachers influence learning outcomes and help guide
+        professional development efforts.
+      </p>
+    </div>
